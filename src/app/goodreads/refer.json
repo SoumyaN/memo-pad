@@ -1,0 +1,29 @@
+[
+  {
+    "title": "transpile",
+    "keywords": ["compile", "transpile"],
+    "link": "https://www.stevefenton.co.uk/2012/11/compiling-vs-transpiling/"
+  },
+  {
+    "title": "lazy loading",
+    "keywords": ["webpack", "react"],
+    "link": "https://tailordev.fr/blog/2016/03/17/loading-dependencies-asynchronously-in-react-components/"
+  },
+  {
+    "title": "chrome dev tools",
+    "keywords": ["search", "color"],
+    "link": "http://tutorialzine.com/2015/03/15-must-know-chrome-devtools-tips-tricks/"
+  },
+  {
+    "title": "gzip",
+    "keywords": ["gzip", "react", "minify"],
+    "link": "https://css-tricks.com/the-difference-between-minification-and-gzipping/"
+  }
+
+//  https://medium.com/@wob/the-sad-state-of-web-development-1603a861d29f#.iulkerdqb
+  // http://stackoverflow.com/questions/12668880/difference-between-node-js-and-express-js
+  //https://www.airpair.com/firebase/posts/firebase-building-realtime-app
+]
+// https://henrikwarne.com/2014/06/30/what-makes-a-good-programmer/
+// https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/
+// https://www.youtube.com/watch?v=_0Fk85to6hA
